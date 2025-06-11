@@ -19,9 +19,15 @@ Projeto acadêmico desenvolvido para a disciplina de Linguagem Técnica de Progr
 
 🔧 Tecnologias Utilizadas
 Linguagem: Java
+
 Banco de Dados: SQLite
+
 Arquitetura de Layout: XML, ConstraintLayout, RecyclerView, CardView
+
 Componentes: Componentes do Material Design para uma interface moderna e responsiva.
+
 Ferramentas: DBeaver para modelagem e gerenciamento do banco de dados.
+
+
 📊 Status do Projeto
 Projeto concluído em Junho de 2025. ✔️
